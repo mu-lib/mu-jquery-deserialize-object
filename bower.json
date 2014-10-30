@@ -1,0 +1,26 @@
+{
+  "name": "mu-jquery-deserialize-object",
+  "homepage": "https://github.com/mu-lib/mu-jquery-deserialize-object",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mu-lib/mu-jquery-deserialize-object.git"
+  },
+  "authors": [
+    "Mikael Karon"
+  ],
+  "description": "Micro jQuery Deserialize Object",
+  "main": "jquery.deserializeObject.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "requirejs": "~2"
+  }
+}
